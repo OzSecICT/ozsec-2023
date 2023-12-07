@@ -1,6 +1,6 @@
 # OzSecBadgeTesting
 
-Welcome to the OzSecBadgeTesting repo.
+Welcome to the ozsec-2023 repo.
 The code for the 2023 OzSec badges is hosted here.
 You can use this code to understand how the badge runs with the stock firmware.
 
